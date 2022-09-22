@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LR3/1.0.0": {
+        "dependencies": {
+          "HellCuteCorgi": "1.1.0"
+        },
+        "runtime": {
+          "LR3.dll": {}
+        }
+      },
+      "HellCuteCorgi/1.1.0": {
+        "runtime": {
+          "lib/net6.0/LR1.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LR3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HellCuteCorgi/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4eRb2L0R60XpqMUc4NIimx4LauZPqXeZy+DZ1+n/tE9cmVYkUYi21JDtwWQfRolUHZWQM6EzRXBwZQaFYeQ0iw==",
+      "path": "hellcutecorgi/1.1.0",
+      "hashPath": "hellcutecorgi.1.1.0.nupkg.sha512"
+    }
+  }
+}

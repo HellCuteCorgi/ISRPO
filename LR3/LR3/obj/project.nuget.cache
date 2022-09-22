@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TBARpB1ygPSbsTXQMr37yV924I6ask6deDordvU+5M3Xk1o64swM5CbJ0p02EPs9fYKM4YNipSIqpzZOqY3dgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\LR3\\LR3\\LR3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\hellcutecorgi\\1.1.0\\hellcutecorgi.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
