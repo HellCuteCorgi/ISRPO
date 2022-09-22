@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	  <PackageId>HellCuteCorgi</PackageId>
+	  <Version>1.1.0</Version>
+	  <Authors>HellCuteCorgi</Authors>
+	  <Company>FufelSchmerzInc</Company>
+
+	  <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
